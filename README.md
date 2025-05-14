@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Django, YOLOv8 & Power BI.**
 
-- 👯 I’m looking to collaborate on **Locate360 - Lost and Found Web App**
-
-- 🤝 I’m looking for help with **Locate360 - Lost and Found Web App**
-
 - 👨‍💻 All of my projects are available at [https://portfoliovidya.netlify.app/](https://portfoliovidya.netlify.app/)
 
 - 📫 How to reach me **vidyaganjasri@gmail.com**
