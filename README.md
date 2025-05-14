@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Ganja Srividya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -12,11 +11,12 @@
 
 - 🤝 I’m looking for help with **Locate360 - Lost and Found Web App**
 
+- 👨‍💻 All of my projects are available at [https://portfoliovidya.netlify.app/](https://portfoliovidya.netlify.app/)
+
 - 📫 How to reach me **vidyaganjasri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ganja srividya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganja srividya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
