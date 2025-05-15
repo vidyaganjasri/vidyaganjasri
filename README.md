@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Django, YOLOv8 & Power BI.**
 
-- 👨‍💻 All of my projects are available at [https://portfoliovidya.netlify.app/](https://portfoliovidya.netlify.app/)
-
 - 📫 How to reach me **vidyaganjasri@gmail.com**
 
 <p align="left">
