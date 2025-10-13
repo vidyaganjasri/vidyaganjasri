@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ganja Srividya</h1>
-<h3 align="center">An Aspiring Software Engineer | Proficient in AI/ML & Web Development</h3>
+<h3 align="center">An Aspiring Software Engineer | Proficient in AI/ML & Backend Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidyaganjasri&label=Profile%20views&color=0e75b6&style=flat" alt="vidyaganjasri" /> </p>
 
-- 🔭 I’m currently working on enhancing my Data Science skills.
-- 🌱 I’m currently expanding my expertise in **Django, YOLOv8, and exploring Data Science concepts**.
-- 👯 I'm open to collaborating on **AI/ML, Web Development, and Data Science projects**.
-- 💬 Ask me about **Python, Java, React, Object Detection, or web technologies**.
-- ⚡ Fun fact: I've completed **200+ problems on LeetCode and GeeksforGeeks** and was selected for Stanford University's CODE IN PLACE 2023 program.
+- 🔭 I’m currently working on enhancing my Machine Learning skills.
+- 🌱 I’m currently expanding my expertise in **Machine Learning**.
+- 👯 I'm open to collaborating on **AI/ML and Web Development**.
+- 💬 Ask me about **Python, Java and web technologies**.
+- ⚡ Fun fact: I've completed **250+ problems on LeetCode and GeeksforGeeks** and was selected for Stanford University's CODE IN PLACE 2023 program.
 - 📫 How to reach me **ganjasrividya147@gmail.com**
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-Proficient in Python, Java, Data Structures, and Web Design, with certifications from IIT and reputed organizations. I have a strong foundation in AI/ML, including Computer Vision and Object Detection (YOLO), and experience in building full-stack web applications. My passion lies in creating intelligent digital solutions that solve real-world problems.
+Proficient in Python, Java, Data Structures, and Web Design, with certifications from IIT and reputed organizations. I have a strong foundation in AI/ML and experience in building backend applications. My passion lies in creating intelligent digital solutions that solve real-world problems.
 </p>
 
 <h3 align="left">Technical Skills:</h3>
