@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ganja Srividya</h1>
-<h3 align="center">An Aspiring Software Engineer | Proficient in AI/ML & Backend Development</h3>
+<h3 align="center">An Aspiring Software Engineer | Proficient in Machine Learning & Backend Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidyaganjasri&label=Profile%20views&color=0e75b6&style=flat" alt="vidyaganjasri" /> </p>
 
 - 🔭 I’m currently working on enhancing my Machine Learning skills.
-- 🌱 I’m currently expanding my expertise in **Machine Learning**.
 - 👯 I'm open to collaborating on **AI/ML and Web Development**.
-- 💬 Ask me about **Python, Java and web technologies**.
-- ⚡ Fun fact: I've completed **250+ problems on LeetCode and GeeksforGeeks** and was selected for Stanford University's CODE IN PLACE 2023 program.
+- ⚡ Achievements: I've completed **250+ problems on LeetCode and GeeksforGeeks** and was selected for Stanford University's CODE IN PLACE 2023 program & Amazon ML Summer School.
 - 📫 How to reach me **ganjasrividya147@gmail.com**
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-Proficient in Python, Java, Data Structures, and Web Design, with certifications from IIT and reputed organizations. I have a strong foundation in AI/ML and experience in building backend applications. My passion lies in creating intelligent digital solutions that solve real-world problems.
+Proficient in Python, Java, Data Structures , with certifications from IIT and reputed organizations. I have a strong foundation in AI/ML and experience in building backend applications. My passion lies in creating intelligent digital solutions that solve real-world problems.
 </p>
 
 <h3 align="left">Technical Skills:</h3>
@@ -22,15 +20,9 @@ Proficient in Python, Java, Data Structures, and Web Design, with certifications
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" alt="google colab" width="40" height="40"/> </a>
