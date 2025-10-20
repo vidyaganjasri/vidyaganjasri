@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on enhancing my Machine Learning skills.
 - 👯 I'm open to collaborating on **AI/ML and Web Development**.
 - ⚡ Achievements: I've completed **200+ problems on LeetCode and GeeksforGeeks** and was selected for Stanford University's CODE IN PLACE 2023 program & Amazon ML Summer School.
-- Leetcode: https://www.geeksforgeeks.org/user/vidyagaxx65/
+- Leetcode: https://leetcode.com/u/vidyaganjasri/
 - GFG: https://www.geeksforgeeks.org/user/vidyagaxx65/
 - 📫 How to reach me **ganjasrividya147@gmail.com**
 
