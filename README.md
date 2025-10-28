@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganja Srividya</h1>
-<h3 align="center">An Aspiring Software Engineer | Proficient in Machine Learning & Backend Development</h3>
+<h3 align="center">An Aspiring Software Engineer | Passionate about Machine Learning & Backend Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidyaganjasri&label=Profile%20views&color=0e75b6&style=flat" alt="vidyaganjasri" /> </p>
 
